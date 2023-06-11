@@ -8,7 +8,7 @@
 
 resource "harness_application" "myapp" {
   name        = "My Application"
-  description = "This is my first Harness application"
+  description = "This is my 1st Harness application"
 
   tags = [
     "mytag:myvalue",
