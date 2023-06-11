@@ -1,10 +1,3 @@
-terraform {
-  required_providers {
-    harness = {
-      source = "harness/harness"
-    }
-  }
-}
 
 # #Configure the Harness provider for First Gen resources
 # provider "harness" {
